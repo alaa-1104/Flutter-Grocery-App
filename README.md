@@ -22,12 +22,13 @@ The app demonstrates clean UI design, state management, and proper project struc
 
 ---
 
-## 📱 Screenshots
+
 ## 📱 Screenshots
 
 | Home Screen | Products | Cart |
 |------------|----------|------|
-| ![Home](screenshots/home.PNG) | ![Items](screenshots/items.PNG) | ![Cart](screenshots/cart.PNG) |
+| ![Home](screenshot/home.PNG) | ![Items](screenshot/items.PNG) | ![Cart](screenshot/cart.PNG) |
+
 
 
 
