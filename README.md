@@ -23,7 +23,13 @@ The app demonstrates clean UI design, state management, and proper project struc
 ---
 
 ## 📱 Screenshots
-<img width="324" height="672" alt="Capture1" src="https://github.com/user-attachments/assets/60f61a55-2d57-408a-9d31-cfa4d871a4c6" />
+## 📱 Screenshots
+
+| Home Screen | Products | Cart |
+|------------|----------|------|
+| ![Home](screenshots/home.PNG) | ![Items](screenshots/items.PNG) | ![Cart](screenshots/cart.PNG) |
+
+
 
 
 
