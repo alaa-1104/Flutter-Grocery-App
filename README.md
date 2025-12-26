@@ -1,16 +1,30 @@
-# grocery
+# Flutter Grocery App 🛒
 
-A new Flutter project.
+A mobile grocery shopping application built with **Flutter**.  
+The app demonstrates clean UI design, state management, and proper project structure.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Browse grocery products
+- Clean and simple user interface
+- State management using Provider
+- Custom app launcher icon
+- Responsive layout
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
+- **Flutter**
+- **Dart**
+- **Provider** (State Management)
+- **Google Fonts**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Screenshots
+<img width="324" height="672" alt="Capture1" src="https://github.com/user-attachments/assets/60f61a55-2d57-408a-9d31-cfa4d871a4c6" />
+
+
+
+
